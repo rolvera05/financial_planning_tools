@@ -57,7 +57,7 @@ To use the  program you will utilize the following tools for accessing APIs:
 
 ---
 
-Upon launching the Financial Planning application you will be greeted with the following prompts.
+Upon launching the Financial Planning application through jupyter lab you will be greeted with the following prompts.
 
 ![Financial Planning Prompts](Images/jupyter_lab.png)
 
