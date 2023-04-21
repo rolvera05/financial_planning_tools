@@ -52,7 +52,8 @@ To use the loan qualifier application simply clone the repository and run the **
 [Free Crypto API](https://alternative.me/crypto/api/) 
 [Nasdaq Data Link API](https://data.nasdaq.com/) 
 [Alpaca API](https://alpaca.markets/) 
-```
+
+---
 
 Upon launching the Financial Planning application you will be greeted with the following prompts.
 
