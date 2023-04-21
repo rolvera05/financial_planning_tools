@@ -46,11 +46,13 @@ To use the  program you will utilize the following tools for accessing APIs:
 
 ## Usage
 
-To use the loan qualifier application simply clone the repository and run the **app.py** with:
+To use the  program you will utilize the following tools for accessing APIs:
 
 
 [Free Crypto API](https://alternative.me/crypto/api/) 
+
 [Nasdaq Data Link API](https://data.nasdaq.com/) 
+
 [Alpaca API](https://alpaca.markets/) 
 
 ---
